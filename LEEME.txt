@@ -1,0 +1,3 @@
+Este repositorio contiene todo el archivo access con los datos del sistema hasta el 31 de marzo de 2008.
+
+Después se cambió al repositorio que tengo en Next Step porque este se había llenado y no podía seguir subiendo.
